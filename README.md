@@ -116,6 +116,7 @@ ________________________________________<br>
 <img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/33d50697-3c20-446d-bb9d-dae8f212f056" />
 <img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/34ec2441-ea66-46c6-bb65-f5776ec01c9f" />
 <img width="619" height="270" alt="image" src="https://github.com/user-attachments/assets/03cced56-b753-4f86-8a0a-a8fe04b28e01" />
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/fd2e9a05-8d7f-426c-aa32-72fed42b5786" />
 
 <img width="644" height="137" alt="image" src="https://github.com/user-attachments/assets/db77910a-dadd-4746-bc71-3e8d5d82294a" />
 
